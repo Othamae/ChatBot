@@ -1,4 +1,4 @@
-package com.example.demo;
+package dev.othamae.chatbot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
