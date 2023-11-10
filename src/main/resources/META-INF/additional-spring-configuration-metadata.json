@@ -1,7 +1,7 @@
 {
     "properties": [
         {
-            "name": "BOT_PREFIX",
+            "name": "BOTPREFIX",
             "type": "java.lang.String",
             "description": "A description for 'BOT_PREFIX'"
         },
@@ -11,14 +11,34 @@
             "description": "A description for 'TOKEN'"
         },
         {
-            "name": "BASE_URL",
+            "name": "BASEURL",
             "type": "java.lang.String",
             "description": "A description for 'BASE_URL'"
         },
         {
-            "name": "CHAT_ID",
+            "name": "CHATID",
             "type": "java.lang.String",
             "description": "A description for 'CHAT_ID'"
+        },
+        {
+            "name": "SOLRCORE",
+            "type": "java.lang.String",
+            "description": "A description for 'SOLR_CORE'"
+        },
+        {
+            "name": "SOLRCONTENTFIELD",
+            "type": "java.lang.String",
+            "description": "A description for 'SOLR_CONTENT_FIELD'"
+        },
+        {
+            "name": "SOLRBASEURL",
+            "type": "java.lang.String",
+            "description": "A description for 'SOLRBASEURL'"
+        },
+        {
+            "name": "SOLRCONTENTKEY",
+            "type": "java.lang.String",
+            "description": "A description for 'SOLRCONTENTKEY'"
         }
     ]
 }
