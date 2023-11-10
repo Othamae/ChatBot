@@ -1,0 +1,4 @@
+### SOLR
+
+docker pull solr
+docker run --name my_solr -p 8983:8983 solr solr-precreate chatbot

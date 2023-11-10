@@ -1,0 +1,24 @@
+{
+    "properties": [
+        {
+            "name": "BOT_PREFIX",
+            "type": "java.lang.String",
+            "description": "A description for 'BOT_PREFIX'"
+        },
+        {
+            "name": "TOKEN",
+            "type": "java.lang.String",
+            "description": "A description for 'TOKEN'"
+        },
+        {
+            "name": "BASE_URL",
+            "type": "java.lang.String",
+            "description": "A description for 'BASE_URL'"
+        },
+        {
+            "name": "CHAT_ID",
+            "type": "java.lang.String",
+            "description": "A description for 'CHAT_ID'"
+        }
+    ]
+}
